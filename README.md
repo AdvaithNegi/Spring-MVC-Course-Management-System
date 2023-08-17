@@ -36,7 +36,6 @@ The relationship between Admin and Student is one-to-one, while the relationship
 
 1. Students can view a list of available Courses along with their details such as Course Duration.
 2. Apply for courses they wish to enroll in.
-3. System notifies students of successful enrollment and provides course-related information.
 
 # Tools and Technologies used:-
 1. Eclipse IDE
